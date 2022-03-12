@@ -5,7 +5,7 @@
 
 ![Comparison of tumor volume across 4 drug regimens](/Images/Comparison%20of%20tumor%20volume%20across%204%20drug%20regimens.png)
 
-![Mice with smallest tumor vol per drug by timepoint](/Images/Mice%20with%smallest%20tumor%20vol%per%20drug%by%20timepoint.png)
+![Mice with smallest tumor vol per drug by timepoint](/Images/Mice%20with%20smallest%20tumor%20vol%20per%20drug%20by%20timepoint.png)
 
 2. Propriva appears to be the worst drug out of the 10 tested, with the least mice surviving to timepoint 45.
 
@@ -16,6 +16,6 @@
        ii.  r-squared of 0.9035    
    suggest a close to perfect linear relationship between Tumor volume and Mouse Weight.
 
-![Scatterplot of ave Tumor Vol and Weight](/Images/Scatterplot%20of%20ave%20Tumor%Vol%20and%20Weight.png)
+![Scatterplot of ave Tumor Vol and Weight](/Images/Scatterplot%20of%20ave%20Tumor%20Vol%20and%20Weight.png)
 
-Refer to and run "\Pymaceuticals\pymaceuticals.ipynb" for more charts
+Refer to and run \Pymaceuticals\pymaceuticals.ipynb for further analysis.
