@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-##Unit 5 Homework - Conclusion
+## Unit 5 Homework - Conclusion
 1. Out of the 10 drug regimens in the study, mice recovers the best with Ramicane and Capomulins. This can be seen in our boxplot where the quartile and interquartile range relative low, this calculation is further supported by our line graph comparing mice with the smallest tumor volume at timepoint 45 against each drugs.
 
 ![Comparison of tumor volume across 4 drug regimens](/Images/Comparison%20of%20tumor%20volume%20across%204%20drug%20regimens.png)
