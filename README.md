@@ -10,10 +10,11 @@
 
 ![Total timepoints by drugs regimen](/Images/Total%20timepoints%20by%20drugs%20regimen.png)
 
-3. The linear regression equation of
-       i.   Average Tumor Volume (mm3) = 0.89 x (Mouse Weight (g)) + 22.76   
-       ii.  r-squared of 0.9035    
-   suggest a close to perfect linear relationship between Tumor volume and Mouse Weight.
+3. Correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimen are;
+
+i.   Average Tumor Volume (mm3) = 0.95 x (Mouse Weight (g)) + 21.55   
+ii.  r-squared of 0.7089    
+r-squared at 0.7089 suggest moderate effective linear regression model.
 
 ![Scatterplot of ave Tumor Vol and Weight](\Images\Scatterplot%of%ave%Tumor%Vol%and%Weight.png)
 
